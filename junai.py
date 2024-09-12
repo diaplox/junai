@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import os
-from headers import *
-from vulnz import *
+from junaiv1 import *
+from junaiv2 import *
 
 os.system("clear")
 print ga.green+'''
